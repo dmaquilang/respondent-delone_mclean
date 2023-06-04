@@ -1,0 +1,37 @@
+.objective-title {
+    flex-wrap: wrap;
+    width: 1133px;
+    left: 153px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 54px;
+    text-align:left;
+    color: #7C1216;
+}
+
+.content {
+    flex-wrap: wrap;
+    width: 1276px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.btn-secondary {
+    --bs-btn-color: #0B4423 !important;
+    --bs-btn-bg: none !important;
+    --bs-btn-border-radius: 43px !important;
+    --bs-btn-border-color: #0B4423 !important;
+    --bs-btn-hover-bg: #F6AA2C !important;
+    --bs-btn-hover-border-color: #F6AA2C !important;
+    --bs-btn-hover-color: white !important;
+    --bs-btn-active-bg: none !important;
+    --bs-btn-active-border-color: #0B4423 !important;
+}
+
+.body {
+    line-height: 30px;
+    text-align: justify;
+}

@@ -1,0 +1,55 @@
+.instructions {
+    flex-wrap: wrap;
+    width: 1276px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 40px;
+    border: 2px solid #7C1216;
+    border-radius: 10px;
+    margin-top: 2% !important;
+    margin-bottom: 5%;
+}
+
+.question {
+    font-size: 18px;
+}
+
+.note {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5%;
+    color: #7C1216;
+    font-weight: bolder;
+}
+
+.form-check {
+    padding-left: 2em !important;
+}
+
+.form-check-input {
+    border: 2px solid #7C1216 !important;
+    background-image: 2px solid #7C1216 !important;
+    margin-left: 10% !important;
+}
+
+.form-check-input:checked {
+    background-color: #F6AA2C !important;
+    border: #F6AA2C !important;
+}
+
+.form-check-inline { 
+    margin-right: none !important;
+}
+
+.css-1t2bqnt {
+    color:#7C1216 !important;
+}
+.css-9cct2k {
+    color:#7C1216 !important;
+}
+
+.css-b04pc9 {
+    background-color: #F6AA2C !important;
+    opacity: 100 !important;
+}
